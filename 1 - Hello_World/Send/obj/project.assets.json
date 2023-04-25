@@ -121,11 +121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\RabbitMQ\\Send\\Send.csproj",
+      "projectUniqueName": "D:\\SourceControl\\Git\\rabbitmq-tutorials\\1 - Hello_World\\Send\\Send.csproj",
       "projectName": "Send",
-      "projectPath": "D:\\Projetos\\RabbitMQ\\Send\\Send.csproj",
+      "projectPath": "D:\\SourceControl\\Git\\rabbitmq-tutorials\\1 - Hello_World\\Send\\Send.csproj",
       "packagesPath": "C:\\Users\\thsdi\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\RabbitMQ\\Send\\obj\\",
+      "outputPath": "D:\\SourceControl\\Git\\rabbitmq-tutorials\\1 - Hello_World\\Send\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -180,7 +180,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

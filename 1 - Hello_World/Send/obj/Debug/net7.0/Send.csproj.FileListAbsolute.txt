@@ -15,3 +15,20 @@ D:\Projetos\RabbitMQ\Send\obj\Debug\net7.0\refint\Send.dll
 D:\Projetos\RabbitMQ\Send\obj\Debug\net7.0\Send.pdb
 D:\Projetos\RabbitMQ\Send\obj\Debug\net7.0\Send.genruntimeconfig.cache
 D:\Projetos\RabbitMQ\Send\obj\Debug\net7.0\ref\Send.dll
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\bin\Debug\net7.0\Send.exe
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\bin\Debug\net7.0\Send.deps.json
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\bin\Debug\net7.0\Send.runtimeconfig.json
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\bin\Debug\net7.0\Send.dll
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\bin\Debug\net7.0\Send.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\obj\Debug\net7.0\Send.csproj.AssemblyReference.cache
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\obj\Debug\net7.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\obj\Debug\net7.0\Send.AssemblyInfoInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\obj\Debug\net7.0\Send.AssemblyInfo.cs
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\obj\Debug\net7.0\Send.csproj.CoreCompileInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\obj\Debug\net7.0\Send.csproj.CopyComplete
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\obj\Debug\net7.0\Send.dll
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\obj\Debug\net7.0\refint\Send.dll
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\obj\Debug\net7.0\Send.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\obj\Debug\net7.0\Send.genruntimeconfig.cache
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Send\obj\Debug\net7.0\ref\Send.dll

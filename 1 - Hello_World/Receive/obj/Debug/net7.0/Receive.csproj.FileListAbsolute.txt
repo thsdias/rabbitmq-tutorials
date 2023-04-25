@@ -15,3 +15,20 @@ D:\Projetos\RabbitMQ\Receive\obj\Debug\net7.0\refint\Receive.dll
 D:\Projetos\RabbitMQ\Receive\obj\Debug\net7.0\Receive.pdb
 D:\Projetos\RabbitMQ\Receive\obj\Debug\net7.0\Receive.genruntimeconfig.cache
 D:\Projetos\RabbitMQ\Receive\obj\Debug\net7.0\ref\Receive.dll
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\bin\Debug\net7.0\Receive.exe
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\bin\Debug\net7.0\Receive.deps.json
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\bin\Debug\net7.0\Receive.runtimeconfig.json
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\bin\Debug\net7.0\Receive.dll
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\bin\Debug\net7.0\Receive.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\obj\Debug\net7.0\Receive.csproj.AssemblyReference.cache
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\obj\Debug\net7.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\obj\Debug\net7.0\Receive.AssemblyInfoInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\obj\Debug\net7.0\Receive.AssemblyInfo.cs
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\obj\Debug\net7.0\Receive.csproj.CoreCompileInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\obj\Debug\net7.0\Receive.csproj.CopyComplete
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\obj\Debug\net7.0\Receive.dll
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\obj\Debug\net7.0\refint\Receive.dll
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\obj\Debug\net7.0\Receive.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\obj\Debug\net7.0\Receive.genruntimeconfig.cache
+D:\SourceControl\Git\rabbitmq-tutorials\1 - Hello_World\Receive\obj\Debug\net7.0\ref\Receive.dll

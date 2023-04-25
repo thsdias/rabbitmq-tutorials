@@ -1,0 +1,68 @@
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\bin\Debug\net7.0\Worker.exe
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\bin\Debug\net7.0\Worker.deps.json
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\bin\Debug\net7.0\Worker.runtimeconfig.json
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\bin\Debug\net7.0\Worker.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\bin\Debug\net7.0\Worker.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\obj\Debug\net7.0\Worker.csproj.AssemblyReference.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\obj\Debug\net7.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\obj\Debug\net7.0\Worker.AssemblyInfoInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\obj\Debug\net7.0\Worker.AssemblyInfo.cs
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\obj\Debug\net7.0\Worker.csproj.CoreCompileInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\obj\Debug\net7.0\Worker.csproj.CopyComplete
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\obj\Debug\net7.0\Worker.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\obj\Debug\net7.0\refint\Worker.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\obj\Debug\net7.0\Worker.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\obj\Debug\net7.0\Worker.genruntimeconfig.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\Worker\obj\Debug\net7.0\ref\Worker.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\bin\Debug\net7.0\Worker.exe
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\bin\Debug\net7.0\Worker.deps.json
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\bin\Debug\net7.0\Worker.runtimeconfig.json
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\bin\Debug\net7.0\Worker.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\bin\Debug\net7.0\Worker.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\obj\Debug\net7.0\Worker.csproj.AssemblyReference.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\obj\Debug\net7.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\obj\Debug\net7.0\Worker.AssemblyInfoInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\obj\Debug\net7.0\Worker.AssemblyInfo.cs
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\obj\Debug\net7.0\Worker.csproj.CoreCompileInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\obj\Debug\net7.0\Worker.csproj.CopyComplete
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\obj\Debug\net7.0\Worker.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\obj\Debug\net7.0\refint\Worker.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\obj\Debug\net7.0\Worker.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\obj\Debug\net7.0\Worker.genruntimeconfig.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\Worker\obj\Debug\net7.0\ref\Worker.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\bin\Debug\net7.0\Worker.exe
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\bin\Debug\net7.0\Worker.deps.json
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\bin\Debug\net7.0\Worker.runtimeconfig.json
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\bin\Debug\net7.0\Worker.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\bin\Debug\net7.0\Worker.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\obj\Debug\net7.0\Worker.csproj.AssemblyReference.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\obj\Debug\net7.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\obj\Debug\net7.0\Worker.AssemblyInfoInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\obj\Debug\net7.0\Worker.AssemblyInfo.cs
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\obj\Debug\net7.0\Worker.csproj.CoreCompileInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\obj\Debug\net7.0\Worker.csproj.CopyComplete
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\obj\Debug\net7.0\Worker.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\obj\Debug\net7.0\refint\Worker.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\obj\Debug\net7.0\Worker.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\obj\Debug\net7.0\Worker.genruntimeconfig.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\Worker\obj\Debug\net7.0\ref\Worker.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\bin\Debug\net7.0\Worker.exe
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\bin\Debug\net7.0\Worker.deps.json
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\bin\Debug\net7.0\Worker.runtimeconfig.json
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\bin\Debug\net7.0\Worker.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\bin\Debug\net7.0\Worker.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\obj\Debug\net7.0\Worker.csproj.AssemblyReference.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\obj\Debug\net7.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\obj\Debug\net7.0\Worker.AssemblyInfoInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\obj\Debug\net7.0\Worker.AssemblyInfo.cs
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\obj\Debug\net7.0\Worker.csproj.CoreCompileInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\obj\Debug\net7.0\Worker.csproj.CopyComplete
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\obj\Debug\net7.0\Worker.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\obj\Debug\net7.0\refint\Worker.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\obj\Debug\net7.0\Worker.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\obj\Debug\net7.0\Worker.genruntimeconfig.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\4 - fair-dispatch\Worker\obj\Debug\net7.0\ref\Worker.dll

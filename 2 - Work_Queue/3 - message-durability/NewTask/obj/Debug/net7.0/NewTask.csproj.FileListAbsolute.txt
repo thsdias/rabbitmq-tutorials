@@ -1,0 +1,51 @@
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\bin\Debug\net7.0\NewTask.exe
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\bin\Debug\net7.0\NewTask.deps.json
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\bin\Debug\net7.0\NewTask.runtimeconfig.json
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\bin\Debug\net7.0\NewTask.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\bin\Debug\net7.0\NewTask.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\obj\Debug\net7.0\NewTask.csproj.AssemblyReference.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\obj\Debug\net7.0\NewTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\obj\Debug\net7.0\NewTask.AssemblyInfoInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\obj\Debug\net7.0\NewTask.AssemblyInfo.cs
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\obj\Debug\net7.0\NewTask.csproj.CoreCompileInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\obj\Debug\net7.0\NewTask.csproj.CopyComplete
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\obj\Debug\net7.0\NewTask.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\obj\Debug\net7.0\refint\NewTask.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\obj\Debug\net7.0\NewTask.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\obj\Debug\net7.0\NewTask.genruntimeconfig.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\NewTask\obj\Debug\net7.0\ref\NewTask.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\bin\Debug\net7.0\NewTask.exe
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\bin\Debug\net7.0\NewTask.deps.json
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\bin\Debug\net7.0\NewTask.runtimeconfig.json
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\bin\Debug\net7.0\NewTask.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\bin\Debug\net7.0\NewTask.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\obj\Debug\net7.0\NewTask.csproj.AssemblyReference.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\obj\Debug\net7.0\NewTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\obj\Debug\net7.0\NewTask.AssemblyInfoInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\obj\Debug\net7.0\NewTask.AssemblyInfo.cs
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\obj\Debug\net7.0\NewTask.csproj.CoreCompileInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\obj\Debug\net7.0\NewTask.csproj.CopyComplete
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\obj\Debug\net7.0\NewTask.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\obj\Debug\net7.0\refint\NewTask.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\obj\Debug\net7.0\NewTask.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\obj\Debug\net7.0\NewTask.genruntimeconfig.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\2 - message-acknowledgment\NewTask\obj\Debug\net7.0\ref\NewTask.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\bin\Debug\net7.0\NewTask.exe
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\bin\Debug\net7.0\NewTask.deps.json
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\bin\Debug\net7.0\NewTask.runtimeconfig.json
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\bin\Debug\net7.0\NewTask.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\bin\Debug\net7.0\NewTask.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\obj\Debug\net7.0\NewTask.csproj.AssemblyReference.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\obj\Debug\net7.0\NewTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\obj\Debug\net7.0\NewTask.AssemblyInfoInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\obj\Debug\net7.0\NewTask.AssemblyInfo.cs
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\obj\Debug\net7.0\NewTask.csproj.CoreCompileInputs.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\obj\Debug\net7.0\NewTask.csproj.CopyComplete
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\obj\Debug\net7.0\NewTask.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\obj\Debug\net7.0\refint\NewTask.dll
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\obj\Debug\net7.0\NewTask.pdb
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\obj\Debug\net7.0\NewTask.genruntimeconfig.cache
+D:\SourceControl\Git\rabbitmq-tutorials\2 - Work_Queue\3 - message-durability\NewTask\obj\Debug\net7.0\ref\NewTask.dll

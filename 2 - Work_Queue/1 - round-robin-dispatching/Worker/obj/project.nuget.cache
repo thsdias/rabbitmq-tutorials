@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HJLlonAwVllznuH06oUZoSOxtMQ0CSs/CsVvF/X1mN7NCJtuNqNSC6ICLnaJZ3cTnKZjD+zXa4PHadbEGTqzrQ==",
+  "success": true,
+  "projectFilePath": "D:\\SourceControl\\Git\\rabbitmq-tutorials\\2 - Work_Queue\\1 - round-robin-dispatching\\Worker\\Worker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thsdi\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\thsdi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\thsdi\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+
+1- Round-robin dispatching
+
+    1.a - Abrir 2 ou mais shell e executar projeto Worker (consumidores)
+        # shell 1
+        cd Worker
+        dotnet run
+
+        # shell 2
+        cd Worker
+        dotnet run
+
+    1.b - Abrir 1 shell para executar as tarefas:
+        cd NewTask
+        dotnet run "First message."
+        dotnet run "Second message.."
+        dotnet run "Third message..."
+        dotnet run "Fourth message...."
+        dotnet run "Fifth message....." 

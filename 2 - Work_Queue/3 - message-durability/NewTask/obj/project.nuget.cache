@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+bU4YGgS6Ig/bH/6mlA7VZ/ClOUBgkie90kpAOC1cg29TNtWcv8laZGURO3LBdi7fnyUMyl34oOJ+PMdlq4WlA==",
+  "success": true,
+  "projectFilePath": "D:\\SourceControl\\Git\\rabbitmq-tutorials\\2 - Work_Queue\\3 - message-durability\\NewTask\\NewTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thsdi\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\thsdi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\thsdi\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
